@@ -82,7 +82,7 @@ section .title::before {
 
 section .title::after {
     position: absolute;
-    bottom: -8px;
+    bottom: -17px;
     left: 50%;
     font-size: 20px;
     color: crimson;
@@ -263,7 +263,6 @@ section .title::after {
     content: "who i am";
 }
 
-.about .about-content .left {
     width: 45%;
 }
 
