@@ -201,7 +201,7 @@ section .title::after {
 .home {
     display: flex;
     /* background: url("images/bg2.jpg") no-repeat center; */
-    background: linear-gradient(rgba(22, 22, 22, 0), rgba(22, 22, 22, 0.6)), url("images/bg2.jpg") no-repeat center;
+    background: linear-gradient(rgba(22, 22, 22, 0), rgba(22, 22, 22, 0.6)), url("./images/bg2.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
