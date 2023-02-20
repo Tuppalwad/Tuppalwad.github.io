@@ -522,7 +522,7 @@ section .title::after {
 }
 
 .skills-content .right .php::before {
-    width: 50%;
+    width: 90%;
 }
 
 .skills-content .right .mysql::before {
